@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691306899752",
+    "project_id": "chatof-app",
+    "storage_bucket": "chatof-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691306899752:android:2bc0a8e18c47f2869ec81d",
+        "android_client_info": {
+          "package_name": "com.example.chatofapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691306899752-phlecrq9okg1p1bls74905a5er8chrj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXbuXrRYBoyhS0EYzq-J4cPn39vftFrAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691306899752-phlecrq9okg1p1bls74905a5er8chrj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
